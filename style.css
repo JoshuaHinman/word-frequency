@@ -1,0 +1,12 @@
+body {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+textarea {
+    width: 50%;
+    font-size: 1.25rem;
+}
+input {
+    font-size: 1.25rem
+}
